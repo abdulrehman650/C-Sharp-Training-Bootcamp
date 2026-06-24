@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdul Rehman\\Downloads\\Training Sessions\\C# Training Code\\Session 2\\BookLibrary.csproj": {}
+    "C:\\Users\\Abdul Rehman\\Downloads\\C# Training Session\\C# Training Code\\Session 2\\BookLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdul Rehman\\Downloads\\Training Sessions\\C# Training Code\\Session 2\\BookLibrary.csproj": {
+    "C:\\Users\\Abdul Rehman\\Downloads\\C# Training Session\\C# Training Code\\Session 2\\BookLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdul Rehman\\Downloads\\Training Sessions\\C# Training Code\\Session 2\\BookLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Abdul Rehman\\Downloads\\C# Training Session\\C# Training Code\\Session 2\\BookLibrary.csproj",
         "projectName": "BookLibrary",
-        "projectPath": "C:\\Users\\Abdul Rehman\\Downloads\\Training Sessions\\C# Training Code\\Session 2\\BookLibrary.csproj",
+        "projectPath": "C:\\Users\\Abdul Rehman\\Downloads\\C# Training Session\\C# Training Code\\Session 2\\BookLibrary.csproj",
         "packagesPath": "C:\\Users\\Abdul Rehman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdul Rehman\\Downloads\\Training Sessions\\C# Training Code\\Session 2\\obj\\",
+        "outputPath": "C:\\Users\\Abdul Rehman\\Downloads\\C# Training Session\\C# Training Code\\Session 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
